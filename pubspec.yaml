@@ -1,0 +1,4 @@
+name: new_ide_test
+dependencies:
+  flutter:
+    sdk: flutter
